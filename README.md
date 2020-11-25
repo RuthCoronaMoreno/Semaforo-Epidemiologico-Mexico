@@ -1,1 +1,1 @@
-# Semaforo-Epidemiologico-Mexico
+# Semaforo-Epidemiologico-Queretaro
